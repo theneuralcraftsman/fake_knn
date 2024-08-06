@@ -11,8 +11,8 @@ Follow the steps below to set up and run the application:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/theneuralcraftsman/fake_knn.git)
+cd [<repository-directory>](https://github.com/theneuralcraftsman/fake_knn.git)
 ```
 
 ### 2. Create a Virtual Environment
